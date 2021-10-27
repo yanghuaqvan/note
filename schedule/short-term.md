@@ -1,5 +1,5 @@
 设计模式
-Java基础
+Java基础及高级特性
 Spring
 MyBatis
 RocketMQ
