@@ -1,9 +1,11 @@
 #### MySQL安装教程
+
 1. 解压MySQL zip安装包
-   
+
 2. 添加bin路径到用户变量Path中
-   
+
 3. 在解压路径添加配置文件
+
     ```ini
     [mysqld]
     # 设置3306端口
@@ -33,21 +35,25 @@
     ```
 
 4. 初始化data路径，记录密码
+
     ```shell
     mysqld --initialize --console
     ```
 
 5. 安装mysql服务
+
     ```shell
     mysqld --install
     ```
 
 6. 启动mysql服务
+
     ```shell
     net start mysql
     ```
-    
+
 7. 修改默认密码
+
     ```shell
     ALTER USER 'root'@'localhost' IDENTIFIED BY '新密码';
     ```

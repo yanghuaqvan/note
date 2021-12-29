@@ -1,0 +1,35 @@
+jdk 下载
+openjdk
+https://jdk.java.net/archive/
+
+https://jdk.java.net/java-se-ri/17
+
+https://mirrors.huaweicloud.com/openjdk/
+
+oracle jdk
+https://www.oracle.com/java/technologies/oracle-java-archive-downloads.html
+
+https://www.oracle.com/cn/java/technologies/javase-downloads.html
+
+adoptopenjdk
+https://adoptopenjdk.net/
+
+https://mirrors4.tuna.tsinghua.edu.cn/AdoptOpenJDK/
+
+azul zulu jdk
+https://www.azul.com/downloads/?version=java-11-lts&os=macos&architecture=x86-64-bit&package=jdk
+
+Amazon Corretto
+https://aws.amazon.com/cn/corretto/
+
+alibaba dragonwell
+https://www.aliyun.com/product/dragonwell
+
+OpenLogic’s OpenJDK
+https://www.openlogic.com/openjdk-downloads
+
+other
+https://adoptium.net/
+————————————————
+版权声明：本文为CSDN博主「morningcat2018」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/u013837825/article/details/106469833
