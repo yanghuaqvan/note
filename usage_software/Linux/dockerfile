@@ -2,12 +2,7 @@ FROM centos:7.9.2009
 
 RUN yum -y install wget 
 RUN \
-wget -O jdk.tar.gz "https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_linux-x64_bin.tar.gz" && \
-
-
-
-
-
+wget -O jdk.tar.gz "https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_linux-x64_bin.tar.gz" && 
 RUN yum -y install wget \
     && wget -O redis.tar.gz "https://download.redis.io/releases/redis-6.2.6.tar.gz" \
     && wget -O jdk.tar.gz "https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_linux-x64_bin.tar.gz" \
